@@ -1,0 +1,38 @@
+
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Navient complaints across three states</title>
+<link rel="stylesheet" href="css/foundation.css">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<h1> <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet"> Notorious Navient: states with college degree holders see more complaints </h1>
+<br>
+<h4>By:Jennifer Gable </h4>
+
+<div class="infogram-embed" data-id="ecf012c1-a0de-4bc4-80ac-d660c6bcccf1" data-type="interactive" data-title="Column Chart"></div><script>!function(e,n,i,s){var d="InfogramEmbeds";var o=e.getElementsByTagName(n)[0];if(window[d]&&window[d].initialized)window[d].process&&window[d].process();else if(!e.getElementById(i)){var r=e.createElement(n);r.async=1,r.id=i,r.src=s,o.parentNode.insertBefore(r,o)}}(document,"script","infogram-async","https://infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/ecf012c1-a0de-4bc4-80ac-d660c6bcccf1" style="color:#989898!important;text-decoration:none!important;" target="_blank">Column Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+<h3>Important links and resources: </h3>
+
+<p1> https://www.studentloanplanner.com/navient-lawsuit-updates/ </p1>
+<br> 
+<br>
+<p1> https://www.consumerfinance.gov/ </p1>
+<br>
+<br>
+<p1> https://navient.com/ </p1>
+
+
+<script src="js/vendor/jquery.js"></script>
+<script src="js/vendor/what-input.js"></script>
+<script src="js/vendor/foundation.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
